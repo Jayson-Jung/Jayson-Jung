@@ -1,6 +1,6 @@
 <div align="center">
   <a href="hyeonsuns@kakao.com" target="_blank"><img src="https://img.shields.io/badge/hyeonsuns@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/hyeonsun-jung-551ba425b/" target="_blank"><img src="https://img.shields.io/badge/JasonJung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hyeonsun-jung/" target="_blank"><img src="https://img.shields.io/badge/JasonJung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <h2 align="center"> I am currently looking for great opportunity as a software engineer </h2> 
